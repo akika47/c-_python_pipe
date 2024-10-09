@@ -1,0 +1,14 @@
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\bin\Debug\net8.0\pipeGyak.exe
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\bin\Debug\net8.0\pipeGyak.deps.json
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\bin\Debug\net8.0\pipeGyak.runtimeconfig.json
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\bin\Debug\net8.0\pipeGyak.dll
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\bin\Debug\net8.0\pipeGyak.pdb
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.AssemblyInfoInputs.cache
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.AssemblyInfo.cs
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.csproj.CoreCompileInputs.cache
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.dll
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\refint\pipeGyak.dll
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.pdb
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\pipeGyak.genruntimeconfig.cache
+C:\Users\otvos.akos\Documents\OA\SZS\pipeSocketGyak\pipeGyak\pipeGyak\obj\Debug\net8.0\ref\pipeGyak.dll
